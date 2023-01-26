@@ -4,7 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Great+to+see+you.;Nice+to+meet+you.)](https://git.io/typing-svg)
 
-I live in Cologne. I am reliable and a life long learner. I have studied and have worked in a nursery home. My hobby is screenwriting.
+**I am a coder, screenwriter, uncle and life long learner!**
+
+I am looking for a secure job.
+
+I am reliable and diligent.
+
+---------
 
 Right now I am in the [neue fische](https://www.neuefische.de/) Coding Boot Camp Web Developement.
 
@@ -16,6 +22,3 @@ I am currently learning:
 - CSS
 - JavaScript
 - and more...
-
-
-[Lenz Lösches Website](https://www.lenz-loesche.de)
