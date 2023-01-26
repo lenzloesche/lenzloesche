@@ -13,3 +13,4 @@ I am currently learning:
 - JavaScript
 - and more...
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Great+to+see+you;Have+fun!)](https://git.io/typing-svg)
