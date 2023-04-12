@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Great+to+see+you.;Nice+to+meet+you.)](https://git.io/typing-svg)
 
-**I am a coder, screenwriter, uncle and life long learner!**
+**I am a coder, screenwriter and life long learner!**
 
 I am looking for a secure job.
 
@@ -21,4 +21,11 @@ I am currently learning:
 - HTML
 - CSS
 - JavaScript
-- and more...
+- Next.js
+- Node.js
+- React Testing Library
+- Jest
+- Styled Components
+- MongoDB Atlas
+- Mongoose
+- APIs
