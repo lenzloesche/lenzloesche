@@ -12,9 +12,15 @@ I am reliable and diligent.
 
 ---------
 
-Right now I am in the [neue fische](https://www.neuefische.de/) Coding Boot Camp Web Developement.
+![image](https://user-images.githubusercontent.com/117287151/233072303-fe050b63-edf2-44dd-87bd-63fcb3c854aa.png)
 
-I am currently learning:
+have a look at my capstone project [Fitness App](https://github.com/lenzloesche/capstone-project)
+
+---------
+
+I finished the [neue fische](https://www.neuefische.de/) Coding Boot Camp Web Developement.
+
+their tech stack includes:
 - Git
 - GitHub
 - React
