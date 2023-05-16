@@ -18,6 +18,12 @@ have a look at my capstone project [Fitness App](https://github.com/lenzloesche/
 
 ---------
 
+I am currently working on [BudgetBär](https://github.com/lenzloesche/finanzen):
+
+![image](https://github.com/lenzloesche/lenzloesche/assets/117287151/6615b77e-1f1f-452e-9675-95b38c6bb7dc)
+
+---------
+
 I finished the [neue fische](https://www.neuefische.de/) Coding Boot Camp Web Developement.
 
 their tech stack includes:
